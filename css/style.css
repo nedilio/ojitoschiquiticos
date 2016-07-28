@@ -16,9 +16,22 @@
 }
 
 .carousel-inner {
-	top: -88px;
+	top: -107px;
 }
 
 .navbar-default .navbar-nav>li>a {
     color: #fff;
+}
+
+@media screen and (min-width: 768px){
+.carousel-caption {
+    right: 20%;
+    left: 20%;
+    padding-bottom: 145px;
+}	
+}
+.carousel-caption {
+    right: 20%;
+    left: 20%;
+    padding-bottom: 145px;
 }
