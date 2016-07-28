@@ -60,7 +60,7 @@
 	margin-top: 50px;
 }
 
-hr{
+.hrrojo{
     border-top: 5px solid #de0029;
     width: 30%;
 }
@@ -85,4 +85,14 @@ hr{
 	left: 50%;
 	bottom: 150px;
 	margin-left: 0;
+}
+
+.servicios {
+	margin-top: 70px;
+	margin-bottom: 70px; 
+}
+
+.hr-serv {
+	border-top: 2px solid #e2d3d0;
+	margin-bottom: 35px;
 }
