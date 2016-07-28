@@ -97,3 +97,33 @@
 	border-top: 2px solid #e2d3d0;
 	margin-bottom: 35px;
 }
+
+.footera {
+	background-color: #303030;
+	color: whitesmoke;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+.footercont {
+	width: 60%;
+	margin: 20px auto;
+}
+
+.footerb {
+	background-color: #de0029;
+	padding: 50px 0;
+	color: whitesmoke;
+	font-size: 0.9em;
+}
+
+.socialbutton {
+	height: 40px;
+	width: 40px;
+	border-radius: 0px;
+	border: 2px solid whitesmoke;
+	box-sizing: border-box;
+	display: inline-block;
+	background-color: #de0029;
+	/*margin: 20px 10px;*/
+}
