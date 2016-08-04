@@ -1,33 +1,32 @@
 .menutop {
 	text-transform: uppercase;
-	background-color: transparent;
-	border-color: transparent;
-	padding-top: 35px;
+	background-color: yellow;
+	border-color: yellow;
+	/*padding-top: 35px;*/
 	z-index: 999;
 }
 
-.navbar-brand {
+/*.navbar-brand {
 	margin-top: -25px;
-}
+}*/
 
-.imagensota {
-	width: 100%;
-	/*margin-top: -97px;*/
+.slidersection {
+	/*margin-top: 107px;*/
 }
 
 .carousel-header {
-	top: -107px;
+	/*top: -107px;*/
 }
 
 .navbar-default .navbar-nav>li>a {
-    color: #fff;
+    color: #000;
 }
 
 @media screen and (min-width: 768px){
 .captionheader {
     right: 20%;
     left: 20%;
-    padding-bottom: 300px;
+    padding-bottom: 100px;
 }	
 }
 .captionheader {
@@ -54,7 +53,7 @@
 }
 
 .slideheader {
-	height: 898px;
+	/*height: 898px;*/
 }
 
 .info {
